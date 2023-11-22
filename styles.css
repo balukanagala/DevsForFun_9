@@ -1,0 +1,28 @@
+body {
+    font-family: system-ui;
+    /*background: beige;*/
+    color: black;
+  }
+  img{
+    width:600px;
+  }
+  .Day4{
+    /*background-color:aqua;*/
+    width:900px;
+    margin:auto;
+  }
+  .code{
+    box-sizing:border-box;
+    font-size:18px;
+    width:800px;
+    height:220px;
+    /*height:100px;*/
+    background-color:#87837826;
+    padding:34px 16px 32px 32px;
+  }
+  code{
+    background-color:#87837826;
+    color:#EB5757;
+    padding:1px;
+  }
+  
